@@ -45,10 +45,7 @@ public class PersonaController {
     public String c(){
        return "Tomás Domingo : AP";
     }
-    @GetMapping("/hola")
-    public String cd(){
-       return "Funciona";
-    }
+
     @GetMapping("/personas/traer")
     public List<Persona> getPersona() {
         return ipersonaService.getPersona();

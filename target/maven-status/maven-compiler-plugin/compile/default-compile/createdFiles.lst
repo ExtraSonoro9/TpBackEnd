@@ -1,2 +1,7 @@
 com/example/demo/DemoApplication.class
+com/example/demo/Repository/IPersonaRepository.class
+com/example/demo/Controller/PersonaController.class
+com/example/demo/Interface/IPersonaService.class
 com/example/demo/webconfig.class
+com/example/demo/Service/ImpPersonaService.class
+com/example/demo/Entity/Persona.class
