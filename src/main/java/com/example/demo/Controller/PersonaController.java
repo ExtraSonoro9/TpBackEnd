@@ -38,7 +38,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 
 @RestController
-@CrossOrigin(origins ="http://localhost:4200 https://trabajo-final-3b194.web.app") 
+@CrossOrigin(origins ="https://trabajo-final-3b194.web.app") 
 
 public class PersonaController {
 
